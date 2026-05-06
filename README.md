@@ -65,11 +65,11 @@
 
 ## TBD
 
-# 레포지토리 클론
+### 레포지토리 클론
 git clone https://github.com/your-id/Medi-Guide-AI.git
 
-# 환경 설정
+### 환경 설정
 pip install -r requirements.txt
 
-# 에이전트 실행
+### 에이전트 실행
 python main.py
